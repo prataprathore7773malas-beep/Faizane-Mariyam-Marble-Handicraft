@@ -1071,6 +1071,8 @@ font-size:38px;
 .footer-links{
 gap:15px;
 }
+}nav a.active{
+color:var(--primary);
 }
 top:50%;
 left:50%;
