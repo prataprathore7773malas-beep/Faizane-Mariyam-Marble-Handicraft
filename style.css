@@ -22,8 +22,7 @@ font-family:'Poppins',sans-serif;
 body{
 background:var(--dark);
 color:var(--text);
-overflow-x:hidden;
-}
+
 
 a{
 text-decoration:none;
